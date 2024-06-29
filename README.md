@@ -8,7 +8,7 @@
 &nbsp;<a href="https://linktr.ee/SrinivasSwaroop" rel="nofollow"><img alt="Linktree" src="https://img.shields.io/badge/linktree-2F3C51?style=for-the-badge&amp;logo=linktree&amp;logoColor=white" data-canonical-src="https://img.shields.io/badge/linktree-2F3C51?style=for-the-badge&amp;logo=linktree&amp;logoColor=white" style="max-width: 100%;"></a>
 
 </p>
-</br>
+
 <h3> About me</h3>
 -👯 I’m looking to collaborate on **Azure Native Apps**
 
