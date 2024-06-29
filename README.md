@@ -17,6 +17,10 @@
 - 💬 Ask me about **.Net, Front End Development**
 
 </br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eccentricoddity&label=Profile%20views&color=0e75b6&style=flat" alt="eccentricoddity" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eccentricoddity" alt="eccentricoddity" /></a> </p>
+<br/>
 <p align="left">
   <h3> 📚 Interests</h3>
    I'm enthusiastic about clean code, software architecture, and continuous learning. Currently exploring [specific technology or framework.
