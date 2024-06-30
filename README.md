@@ -23,7 +23,7 @@
 <br/>
 <p align="left">
   <h3> 📚 Interests</h3>
-   I'm enthusiastic about clean code, software architecture, and continuous learning. Currently exploring [specific technology or framework.
+   I'm enthusiastic about clean code, software architecture, and continuous learning. Currently exploring Cloud Native architecture and SAAS.
 </p>
 </br>
 <h3 align="left">🎯 Skills</h3>
